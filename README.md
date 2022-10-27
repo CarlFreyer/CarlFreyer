@@ -1,2 +1,2 @@
-# Hey I am Carl! 
-I am a Computer Scienece and business student at: <img src="/image/lehigh.svg" alt="Lehigh" height="12px"/> 
+## About Me:
+Hello I am Carl! I am a **Computer Scienece and Business** major at Lehigh University interested in closely integrating software development with business practices. I am uniquely interested in improving the software development profession into one that runs in O(N) time opposed to the current O(2<sup>N</sup>) time. I feel that development today is slow and inefficient and I want to change that. Before I am capable of this lofty goal though I need to be a software developer. I need to understand where these inefficiencies come from. So for now I want to learn to develop code efficiently, effectively, and profitably. 
